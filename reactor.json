@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "b5de",
+    "repo": "sample-project-2",
+    "branch": "master"
+  },
+  "name": "Sample Project 2",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": "4"
+}
